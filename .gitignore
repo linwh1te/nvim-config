@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Neovim历史/会话/标签等
+.netrwhist
+Session.vim
+tags
+
+# 常见插件管理器生成文件（按需保留/忽略）
+plugin/packer_compiled.lua
+
+# 不要忽略 lazy-lock.json（若你用 lazy.nvim，通常建议提交锁定版本）
