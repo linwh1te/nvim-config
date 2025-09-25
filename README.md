@@ -1,8 +1,3 @@
-好的 ✅ 我来帮你整理一个完整的 README.md 文件版本，包含 Linux / macOS / Windows / Nix(OS) 的安装说明，你可以直接复制粘贴到仓库里的 README.md 文件。
-
-⸻
-
-
 # My Neovim Config
 
 这是我个人的 Neovim 配置，适用于 **Linux / macOS / Windows / NixOS**。  
